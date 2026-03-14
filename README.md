@@ -1,2 +1,2 @@
 # Polytoria-joiner
-Join anyone, even when the servers are full
+An attempt to stream-snipe people LOL
